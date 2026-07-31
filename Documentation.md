@@ -2,7 +2,7 @@
 
 This is the official documentation for how most tools inside G2GDL work.
 
-## Objects and Blocks
+# Objects and Blocks
   ## Objects
   An object is a physical space that accompanies part of the dimension that it is in.
 
@@ -21,3 +21,12 @@ This is the official documentation for how most tools inside G2GDL work.
   You can draw hitboxes by doing:
     hit = hitbox.draw( )
 Configuring said hitbox is rather simple as to change sizes and positions you have to do the same as with Objects.
+
+# Entitiys
+Entitys have various meanings being:
+  Enemy,
+  Player 
+  and
+  Non-Physical-denomination
+
+  
